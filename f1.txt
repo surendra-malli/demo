@@ -1,0 +1,6 @@
+
+
+ this is file created in dup-demo
+
+  end file 
+
